@@ -1,5 +1,7 @@
 C195 Software II - Advanced Java Concepts - WGU Schedule Application
 
+<img src="https://i.imgur.com/T4IQU4k.png"/>
+
 The purpose of this application is to schedule appointments easier than before. My application I built was made to easily
 add, modify, or delete an appointment or customer. Your log in screen will be the first to pop up on the application, then you
 will be directed to the appointments screen and that will give you full customization to add, modify, delete, and update. You will have a 

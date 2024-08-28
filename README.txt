@@ -84,12 +84,6 @@ populates the fields on the application and will populate once a new appointment
 
 MySQL Connector: mysql-connector-java-8.0.23
 
-Javadoc Path: C:\Users\wrey1\OneDrive\Documents\NetBeansProjects\JavaApplication14\javadoc\index.html
-
-README Path: C:\Users\wrey1\OneDrive\Documents\NetBeansProjects\JavaApplication14
-
-Login Activity Path: C:\Users\wrey1\OneDrive\Documents\NetBeansProjects\JavaApplication14
-
 Lambda Comments:
 - ApptsMainController.java line 272.
 - UpdatingCustsController.java line 146.

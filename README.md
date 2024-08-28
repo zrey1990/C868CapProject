@@ -1,6 +1,45 @@
 C195 Software II - Advanced Java Concepts - WGU Schedule Application
 
-<img src="https://i.imgur.com/T4IQU4k.png" height="65%" width="65%" alt="Image Analysis Dataflow"/>
+<h2>DBMS Relationship Diagram</h2>
+<p align="center">
+<img src="https://i.imgur.com/T4IQU4k.png" height="65%" width="65%" alt="DBMS Diagram"/>
+</p>
+
+<h2>Login Screen</h2>
+<p align="center">
+<img src="https://i.imgur.com/PZUEwbY.png" height="65%" width="65%" alt="Login Screen"/>
+</p>
+
+<h2>Main Screen</h2>
+<p align="center">
+<img src="https://i.imgur.com/3CIwMtr.png" height="65%" width="65%" alt="Scheduler"/>
+</p>
+
+<h2>Scheduling a New Appointment</h2>
+<p align="center">
+<img src="https://i.imgur.com/Uh2ttkn.png" height="65%" width="65%" alt="New Patient Information"/>
+</p>
+
+<h2>Updating Appointment</h2>
+<p align="center">
+<img src="https://i.imgur.com/zfGa2hx.png" height="65%" width="65%" alt="Updating Appointment"/>
+</p>
+
+<h2>Sorting by Month and Week</h2>
+<p align="center">
+<img src="https://i.imgur.com/zTnsq1b.png" height="65%" width="65%" alt="By Month"/>
+<img src="https://i.imgur.com/2646gWv.png" height="65%" width="65%" alt="By Week"/>
+</p>
+
+<h2>Adding or Updating Customers Screen</h2>
+<p align="center">
+<img src="https://i.imgur.com/4xYWEnx.png" height="65%" width="65%" alt="Updating Appointment"/>
+</p>
+
+<h2>Creating Reports</h2>
+<p align="center">
+<img src="blob:https://imgur.com/5fc8cfd9-b735-43a6-be4d-889393a3596c" height="65%" width="65%" alt="Updating Appointment"/>
+</p>
 
 The purpose of this application is to schedule appointments easier than before. My application I built was made to easily
 add, modify, or delete an appointment or customer. Your log in screen will be the first to pop up on the application, then you
